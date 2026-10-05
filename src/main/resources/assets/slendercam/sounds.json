@@ -1,0 +1,7 @@
+{
+  "static_far": { "category": "master", "sounds": [{ "name": "slendercam:static_far", "stream": true }] },
+  "static_mid": { "category": "master", "sounds": [{ "name": "slendercam:static_mid", "stream": true }] },
+  "static_rage": { "category": "master", "sounds": [{ "name": "slendercam:static_rage", "stream": true }] },
+  "teleport": { "category": "master", "sounds": [{ "name": "slendercam:teleport", "stream": true }] },
+  "breathing": { "category": "master", "sounds": [{ "name": "slendercam:sounds/breathing", "stream": true }] }
+}
